@@ -6,9 +6,9 @@ Hi, I'm Thiago!!
 </div>
 
   
-##<div align="center" style="display: inline_block"><br>
-  ##<img align="center" alt="Balade" height="30" width="40" src="<endereço da imagem>">
- ##</div>
+## <div align="center" style="display: inline_block"><br>
+  ## <img align="center" alt="Balade" height="30" width="40" src="<endereço da imagem>">
+ ## </div>
   
 <div align="center" style="display: inline_block"><br> 
    <a href="https://www.instagram.com/thiago_nunesv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
